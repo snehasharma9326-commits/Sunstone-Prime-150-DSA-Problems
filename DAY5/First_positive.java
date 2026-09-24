@@ -1,4 +1,4 @@
-class Solution {
+class First_positive {
     public int firstMissingPositive(int[] nums) {
         int n = nums.length;
 
