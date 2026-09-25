@@ -1,4 +1,4 @@
-class Solution {
+class Roman_to_integer {
     public int romanToInt(String s) {
         int ans = 0;
 
