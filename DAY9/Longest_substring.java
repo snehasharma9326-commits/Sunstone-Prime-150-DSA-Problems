@@ -1,4 +1,4 @@
-public class Lonest_substring {
+public class Longest_substring {
     public String longestPalindrome(String s) {
         if (s.length() <= 1) {
             return s;
